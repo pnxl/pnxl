@@ -31,11 +31,11 @@ i don't only code however, i make launchpad videos aswell on my youtube channel,
 
 ## my latest videos!
 <!-- YOUTUBE:START -->
+- [Genshin Impact OST - Dance of Heron &lpar;Ayaka&#39;s Fan Dance&rpar; / Launchpad Lightshow](https://www.youtube.com/watch?v=aQ6_XQ46MRY)
 - [Chito &amp; Yuuri - Ugoku, Ugoku / Launchpad Softcover](https://www.youtube.com/watch?v=hBbNdXsW9K0)
 - [Porter Robinson - Look At The Sky / Launchpad Project by Prismatic](https://www.youtube.com/watch?v=lSMYixAlT9g)
 - [CHANNEL TRAISLER 2021](https://www.youtube.com/watch?v=6byAsG-MVTM)
 - [Hyper Potions &amp; MYLK - Jelly / Launchpad Lightshow](https://www.youtube.com/watch?v=QQ3bF3eQ6zM)
-- [Dabbing - Drown &lpar;ft. Mosquito&rpar; / Launchpad REAL HARDCOVER &lpar;FAKE&rpar;](https://www.youtube.com/watch?v=KtAvB3-9MAM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/ucvkolwlrvmvdl3hhxkdonkq)
