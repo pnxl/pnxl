@@ -23,16 +23,6 @@ one of my biggest projects, is [botphyte](https://github.com/whospix3l/botphyte)
 
 i don't only code however, i make launchpad videos aswell on my youtube channel, which you can check out by [clicking here](https://www.youtube.com/channel/ucvkolwlrvmvdl3hhxkdonkq).
 
-## connect with me:
-[<img align="left" alt="pix3l_ | youtube" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/channel/ucvkolwlrvmvdl3hhxkdonkq?sub_confirmation=1)
-[<img align="left" alt="poonxal | twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://www.twitter.com/poonxal)
-[<img align="left" alt="actuallypix3l_ | instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/actuallypix3l_)
-[<img align="left" alt="pix3l_ | ko-fi" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kofi.svg" />](https://ko-fi.com/pix3l_)
-[<img align="left" alt="poonxal | fiverr" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/fiverr.svg" />](https://fiverr.com/poonxal)
-
-<br />
-<br />
-
 ## my latest videos!
 <!-- YOUTUBE:START -->
 - [Genshin Impact OST - Dance of Heron &lpar;Ayaka&#39;s Fan Dance&rpar; / Launchpad Lightshow](https://www.youtube.com/watch?v=aQ6_XQ46MRY)
@@ -43,3 +33,27 @@ i don't only code however, i make launchpad videos aswell on my youtube channel,
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/ucvkolwlrvmvdl3hhxkdonkq)
+
+## connect with me
+[<img align="left" alt="pix3l_ | youtube" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/channel/ucvkolwlrvmvdl3hhxkdonkq?sub_confirmation=1)
+[<img align="left" alt="poonxal | twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://www.twitter.com/poonxal)
+[<img align="left" alt="actuallypix3l_ | instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/actuallypix3l_)
+[<img align="left" alt="pix3l_ | ko-fi" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kofi.svg" />](https://ko-fi.com/pix3l_)
+[<img align="left" alt="poonxal | fiverr" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/fiverr.svg" />](https://fiverr.com/poonxal)
+
+<br />
+<br />
+
+## cool ppl you should check out
+<div align="center">
+  <table>
+   <tr>
+     <th><a href="https://github.com/trobonox"><img width="100" height="100" src="https://avatars.githubusercontent.com/u/57040351"><br />trobo</a></th>
+     <th><a href="https://github.com/jusnite"><img width="100" height="100" src="https://avatars.githubusercontent.com/u/87930074"><br />Justin</a></th>
+     <th><a href="https://github.com/losowylp"><img width="100" height="100" src="https://avatars.githubusercontent.com/u/77402345"><br />losowyLP</a></th>
+      <th><a href="https://github.com/simplymerlin"><img width="100" height="100" src="https://avatars.githubusercontent.com/u/30577208"><br />Merlin</a></th>
+     <th><a href="https://github.com/anthonyhfm"><img width="100" height="100" src="https://avatars.githubusercontent.com/u/76816347"><br />Anthony</a></th>
+     <th><a href="https://github.com/kirbo-lab"><img width="100" height="100" src="https://avatars.githubusercontent.com/u/74769138"><br />Kirbo</a></th>
+    </tr>
+  <table>
+</div>
