@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+
+---
+
 <img width="125" height="125" align="left" src="https://avatars.githubusercontent.com/u/66474423"> 
 
 # hey, i'm jason.
